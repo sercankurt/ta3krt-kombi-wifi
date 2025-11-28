@@ -36,7 +36,7 @@ int wifiFailCount = 0;
 const unsigned long wifiAttemptInterval = 3000; // ms
 const int maxWifiFails = 3;
 
-// HTML (senin verdiğin arayüz — içerik değişmedi, JS'de /on?min= ve /save çağrısı yapılıyor)
+// HTML 
 const char PAGE_HTML[] PROGMEM = R"====(
 <!DOCTYPE html>
 <html lang="tr">
