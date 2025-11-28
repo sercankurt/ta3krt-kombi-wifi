@@ -19,9 +19,9 @@ IPAddress subnet(255, 255, 255, 0);
 #define RELAY_PIN 5
 #define LED_PIN 2
 
-// Röle aktif LOW
-#define RELAY_ON  LOW
-#define RELAY_OFF HIGH
+// Röle aktif - Durum:
+#define RELAY_ON  HIGH
+#define RELAY_OFF LOW
 
 // ---------- Server ----------
 WebServer server(80);
