@@ -1,5 +1,5 @@
-// Final .ino — Modern arayüzün (senin verdiğin HTML) ESP32 ile tam çalışan hali.
-// Röle: GPIO5, LED: GPIO4 (LED röle ile senkron).
+// Final .ino — Modern arayüz
+// Röle: GPIO5, LED: GPIO2 (LED röle ile senkron).
 // Röle aktif LOW: RELAY_ON = LOW.
 
 #include <WiFi.h>
