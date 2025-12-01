@@ -7,8 +7,8 @@
 #include <ArduinoJson.h>
 
 // ---------- WiFi ----------
-const char* ssid = "TA3KRT";
-const char* password = "?sngMuDvk@#";
+const char* ssid = "SSID";
+const char* password = "PASSWORD";
 
 // Statik IP (kullandığın)
 IPAddress local_IP(192, 168, 0, 20);
